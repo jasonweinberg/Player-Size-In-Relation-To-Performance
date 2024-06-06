@@ -6,5 +6,5 @@ The purpose of this analysis is to determine whether or not correlation exists b
 The information used herein was downloaded from Open Source Sports and is
 copyrighted by the Hockey Databank project.
 
-Link: [Professional Hockey Database](https://www.kaggle.com/datasets/open-source-sports/professional-hockey-database)
+Link to Dataset: [Professional Hockey Database](https://www.kaggle.com/datasets/open-source-sports/professional-hockey-database)
 
